@@ -1,0 +1,214 @@
+PrismaClientInitializationError: Prisma Client could not find its `schema.prisma`. This is likely caused by a bundling step, which leads to `schema.prisma` not being copied near the resulting bundle. We would appreciate if you could take the time to share some information with us.
+Please help us by answering a few questions: https://pris.ly/bundler-investigation-error
+    at new _t (C:\www\automated-chatgpt-app\apps\server\dist\index.js:108:118)
+    at e.getEngine (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:5342)
+    at new e (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:4899)
+    at Object.<anonymous> (C:\www\automated-chatgpt-app\apps\server\dist\index.js:206:794)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
+    at wrapper (C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+PrismaClientInitializationError: Prisma Client could not find its `schema.prisma`. This is likely caused by a bundling step, which leads to `schema.prisma` not being copied near the resulting bundle. We would appreciate if you could take the time to share some information with us.
+Please help us by answering a few questions: https://pris.ly/bundler-investigation-error
+    at new _t (C:\www\automated-chatgpt-app\apps\server\dist\index.js:108:118)
+    at e.getEngine (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:5342)
+    at new e (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:4899)
+    at Object.<anonymous> (C:\www\automated-chatgpt-app\apps\server\dist\index.js:206:794)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
+    at wrapper (C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+PrismaClientInitializationError: Prisma Client could not find its `schema.prisma`. This is likely caused by a bundling step, which leads to `schema.prisma` not being copied near the resulting bundle. We would appreciate if you could take the time to share some information with us.
+Please help us by answering a few questions: https://pris.ly/bundler-investigation-error
+    at new _t (C:\www\automated-chatgpt-app\apps\server\dist\index.js:108:118)
+    at e.getEngine (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:5342)
+    at new e (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:4899)
+    at Object.<anonymous> (C:\www\automated-chatgpt-app\apps\server\dist\index.js:206:794)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
+    at wrapper (C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+PrismaClientInitializationError: Prisma Client could not find its `schema.prisma`. This is likely caused by a bundling step, which leads to `schema.prisma` not being copied near the resulting bundle. We would appreciate if you could take the time to share some information with us.
+Please help us by answering a few questions: https://pris.ly/bundler-investigation-error
+    at new _t (C:\www\automated-chatgpt-app\apps\server\dist\index.js:108:118)
+    at e.getEngine (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:5342)
+    at new e (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:4899)
+    at Object.<anonymous> (C:\www\automated-chatgpt-app\apps\server\dist\index.js:206:794)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
+    at wrapper (C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+PrismaClientInitializationError: Prisma Client could not find its `schema.prisma`. This is likely caused by a bundling step, which leads to `schema.prisma` not being copied near the resulting bundle. We would appreciate if you could take the time to share some information with us.
+Please help us by answering a few questions: https://pris.ly/bundler-investigation-error
+    at new _t (C:\www\automated-chatgpt-app\apps\server\dist\index.js:108:118)
+    at e.getEngine (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:5342)
+    at new e (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:4899)
+    at Object.<anonymous> (C:\www\automated-chatgpt-app\apps\server\dist\index.js:206:794)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
+    at wrapper (C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+PrismaClientInitializationError: Prisma Client could not find its `schema.prisma`. This is likely caused by a bundling step, which leads to `schema.prisma` not being copied near the resulting bundle. We would appreciate if you could take the time to share some information with us.
+Please help us by answering a few questions: https://pris.ly/bundler-investigation-error
+    at new _t (C:\www\automated-chatgpt-app\apps\server\dist\index.js:108:118)
+    at e.getEngine (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:5342)
+    at new e (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:4899)
+    at Object.<anonymous> (C:\www\automated-chatgpt-app\apps\server\dist\index.js:206:794)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
+    at wrapper (C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+PrismaClientInitializationError: Prisma Client could not find its `schema.prisma`. This is likely caused by a bundling step, which leads to `schema.prisma` not being copied near the resulting bundle. We would appreciate if you could take the time to share some information with us.
+Please help us by answering a few questions: https://pris.ly/bundler-investigation-error
+    at new _t (C:\www\automated-chatgpt-app\apps\server\dist\index.js:108:118)
+    at e.getEngine (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:5342)
+    at new e (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:4899)
+    at Object.<anonymous> (C:\www\automated-chatgpt-app\apps\server\dist\index.js:206:794)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
+    at wrapper (C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+PrismaClientInitializationError: Prisma Client could not find its `schema.prisma`. This is likely caused by a bundling step, which leads to `schema.prisma` not being copied near the resulting bundle. We would appreciate if you could take the time to share some information with us.
+Please help us by answering a few questions: https://pris.ly/bundler-investigation-error
+    at new _t (C:\www\automated-chatgpt-app\apps\server\dist\index.js:108:118)
+    at e.getEngine (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:5342)
+    at new e (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:4899)
+    at Object.<anonymous> (C:\www\automated-chatgpt-app\apps\server\dist\index.js:206:794)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
+    at wrapper (C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+PrismaClientInitializationError: Prisma Client could not find its `schema.prisma`. This is likely caused by a bundling step, which leads to `schema.prisma` not being copied near the resulting bundle. We would appreciate if you could take the time to share some information with us.
+Please help us by answering a few questions: https://pris.ly/bundler-investigation-error
+    at new _t (C:\www\automated-chatgpt-app\apps\server\dist\index.js:108:118)
+    at e.getEngine (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:5342)
+    at new e (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:4899)
+    at Object.<anonymous> (C:\www\automated-chatgpt-app\apps\server\dist\index.js:206:794)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
+    at wrapper (C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+PrismaClientInitializationError: Prisma Client could not find its `schema.prisma`. This is likely caused by a bundling step, which leads to `schema.prisma` not being copied near the resulting bundle. We would appreciate if you could take the time to share some information with us.
+Please help us by answering a few questions: https://pris.ly/bundler-investigation-error
+    at new _t (C:\www\automated-chatgpt-app\apps\server\dist\index.js:108:118)
+    at e.getEngine (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:5342)
+    at new e (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:4899)
+    at Object.<anonymous> (C:\www\automated-chatgpt-app\apps\server\dist\index.js:206:794)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
+    at wrapper (C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+PrismaClientInitializationError: Prisma Client could not find its `schema.prisma`. This is likely caused by a bundling step, which leads to `schema.prisma` not being copied near the resulting bundle. We would appreciate if you could take the time to share some information with us.
+Please help us by answering a few questions: https://pris.ly/bundler-investigation-error
+    at new _t (C:\www\automated-chatgpt-app\apps\server\dist\index.js:108:118)
+    at e.getEngine (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:5342)
+    at new e (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:4899)
+    at Object.<anonymous> (C:\www\automated-chatgpt-app\apps\server\dist\index.js:206:794)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
+    at wrapper (C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+PrismaClientInitializationError: Prisma Client could not find its `schema.prisma`. This is likely caused by a bundling step, which leads to `schema.prisma` not being copied near the resulting bundle. We would appreciate if you could take the time to share some information with us.
+Please help us by answering a few questions: https://pris.ly/bundler-investigation-error
+    at new _t (C:\www\automated-chatgpt-app\apps\server\dist\index.js:108:118)
+    at e.getEngine (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:5342)
+    at new e (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:4899)
+    at Object.<anonymous> (C:\www\automated-chatgpt-app\apps\server\dist\index.js:206:794)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
+    at wrapper (C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+PrismaClientInitializationError: Prisma Client could not find its `schema.prisma`. This is likely caused by a bundling step, which leads to `schema.prisma` not being copied near the resulting bundle. We would appreciate if you could take the time to share some information with us.
+Please help us by answering a few questions: https://pris.ly/bundler-investigation-error
+    at new _t (C:\www\automated-chatgpt-app\apps\server\dist\index.js:108:118)
+    at e.getEngine (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:5342)
+    at new e (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:4899)
+    at Object.<anonymous> (C:\www\automated-chatgpt-app\apps\server\dist\index.js:206:794)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
+    at wrapper (C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+PrismaClientInitializationError: Prisma Client could not find its `schema.prisma`. This is likely caused by a bundling step, which leads to `schema.prisma` not being copied near the resulting bundle. We would appreciate if you could take the time to share some information with us.
+Please help us by answering a few questions: https://pris.ly/bundler-investigation-error
+    at new _t (C:\www\automated-chatgpt-app\apps\server\dist\index.js:108:118)
+    at e.getEngine (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:5342)
+    at new e (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:4899)
+    at Object.<anonymous> (C:\www\automated-chatgpt-app\apps\server\dist\index.js:206:794)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
+    at wrapper (C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+PrismaClientInitializationError: Prisma Client could not find its `schema.prisma`. This is likely caused by a bundling step, which leads to `schema.prisma` not being copied near the resulting bundle. We would appreciate if you could take the time to share some information with us.
+Please help us by answering a few questions: https://pris.ly/bundler-investigation-error
+    at new _t (C:\www\automated-chatgpt-app\apps\server\dist\index.js:108:118)
+    at e.getEngine (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:5342)
+    at new e (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:4899)
+    at Object.<anonymous> (C:\www\automated-chatgpt-app\apps\server\dist\index.js:206:794)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
+    at wrapper (C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+PrismaClientInitializationError: Prisma Client could not find its `schema.prisma`. This is likely caused by a bundling step, which leads to `schema.prisma` not being copied near the resulting bundle. We would appreciate if you could take the time to share some information with us.
+Please help us by answering a few questions: https://pris.ly/bundler-investigation-error
+    at new _t (C:\www\automated-chatgpt-app\apps\server\dist\index.js:108:118)
+    at e.getEngine (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:5342)
+    at new e (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:4899)
+    at Object.<anonymous> (C:\www\automated-chatgpt-app\apps\server\dist\index.js:206:794)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
+    at wrapper (C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+PrismaClientInitializationError: Prisma Client could not find its `schema.prisma`. This is likely caused by a bundling step, which leads to `schema.prisma` not being copied near the resulting bundle. We would appreciate if you could take the time to share some information with us.
+Please help us by answering a few questions: https://pris.ly/bundler-investigation-error
+    at new _t (C:\www\automated-chatgpt-app\apps\server\dist\index.js:108:118)
+    at e.getEngine (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:5342)
+    at new e (C:\www\automated-chatgpt-app\apps\server\dist\index.js:132:4899)
+    at Object.<anonymous> (C:\www\automated-chatgpt-app\apps\server\dist\index.js:206:794)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:304:25
+    at wrapper (C:\Users\itzSuNNy\AppData\Roaming\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+15-07 14:09: 🚀 Socket server started...
+15-07 14:09: 🚀 [server] is running on port : 9001
+15-07 15:00: 🚀 Socket server started...
+15-07 15:00: 🚀 [server] is running on port : 9001
+15-07 15:01: 🚀 Socket server started...
+15-07 15:01: 🚀 [server] is running on port : 9001
+15-07 15:05: 🚀 Socket server started...
+15-07 15:05: 🚀 [server] is running on port : 9001
+15-07 15:05: 🚀 Socket server started...
+15-07 15:05: 🚀 [server] is running on port : 9001
